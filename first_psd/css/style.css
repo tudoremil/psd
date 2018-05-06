@@ -1,0 +1,92 @@
+body {
+	margin:0;
+}
+/*UTILS*/
+.displayNone {
+	display: none;
+}
+.inline-block {
+	display: inline-block;
+}
+.capitalize {
+	text-transform: capitalize;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+
+/*END UTILS*/
+.content {
+	padding-left: 60px;
+	padding-top: 50px;
+}
+
+.left {
+	float: left;
+	width: 33%;
+	background-color: #dcddde;
+}
+
+.image{
+	height: 299px;
+}
+
+.contact-button {
+	font-size: 35px;
+	color: #ffffff;
+	text-align: center;
+	padding: 15px;
+}
+.contact1 {
+	background-color: #00639e;
+}
+.contact2 {
+	background-color: #007dc5;
+}
+.contact3 {
+	background-color: #009bdf;
+}
+.info {
+	padding:0 20px;
+}
+.info-title {
+	padding-top: 46px;
+	font-size: 40px;
+	padding-bottom: 33px;
+	font-weight: bold;
+}
+.info-details {
+	
+	font-size: 25px;
+}
+.info-details-subtitle {
+	width:40%;
+}
+.info-details-range {
+	width: 55%;
+	background-color: #b7b8b9;
+	margin-top: 8px;
+	height: 10px;
+}
+.fill {
+	background-color: #00aeef;
+	height: 10px;
+}
+.commuication .fill {
+	width:20%;
+}
+.creativity .fill {
+	width:40%;
+}
+.team .fill {
+	width:80%;
+}
+.organizational .fill {
+	width:83%;
+}
+.leadership .fill {
+	width: 63%;
+}
+.teamplayer .fill {
+	width: 33%;
+}
