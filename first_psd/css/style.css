@@ -2,6 +2,9 @@ body {
 	margin:0;
 }
 /*UTILS*/
+.display-inline {
+	display: inline;
+}
 .displayNone {
 	display: none;
 }
@@ -90,3 +93,66 @@ body {
 .teamplayer .fill {
 	width: 33%;
 }
+.photoshop .fill {
+	width: 73%;
+}
+.ilustrator .fill {
+	width: 93%;
+}
+.design .fill {
+	width: 83%;
+}
+.tmsoffice .fill {
+	width: 66%;
+}
+.html .fill {
+	width: 83%;
+}
+.css .fill {
+	width: 88%;
+}
+.contacts {
+	font-weight: bold;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+.subtitle {
+	font-weight: bold;
+}
+.name {
+	font-size: 60px;
+	padding-left: 60px;
+	padding-top: 30px;
+	color: #00aeef;
+}
+.title {
+	font-weight: bold;
+	padding-left: 60px;
+}
+.text {
+	padding-top: 40px;
+	padding-left: 60px;
+	padding-bottom: 50px;
+	font-size: 40px;
+	
+}
+.line {
+	background-color: #b7b8b9;
+	height: 30px;
+	padding-top: 20px;
+	padding-left: 60px;
+	width: 64%;
+}
+
+.calification {
+	width: 30%;
+	font-weight: bold;
+	padding-left: 60px;
+	padding-top: 40px;
+
+}	
+
+.writing {
+	display: inline;
+}
+
